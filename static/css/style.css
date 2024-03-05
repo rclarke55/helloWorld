@@ -1,0 +1,39 @@
+/* generate general paragraph style */
+p {
+    color: royalblue;
+    font-size: 18px;
+
+}
+
+/* create general subheading format */
+h2 {
+    color: darkblue;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/* create border design with color and format */
+table, td, th {
+    border-style: solid;
+    border-width: medium;
+    border-color: darkblue;
+    border-collapse: collapse;
+}
+
+/* design style for a special paragraph */
+p#special {
+    color: cornflowerblue;
+    font-style: italic;
+    font-size: 18px;
+}
+
+h2.personalinfo {
+    color: dodgerblue;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+img.logo {
+    height: 72px;
+    width: 267px;
+}
